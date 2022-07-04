@@ -1,0 +1,17 @@
+.viagem{
+    text-align: center;
+    padding: 32px;
+}
+
+.viagem h3{
+    font-size: 25px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.viagem .cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+.lista label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+.lista select{
+    background-color: #FFFFFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
